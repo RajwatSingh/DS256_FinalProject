@@ -1,0 +1,1107 @@
+﻿Iso3_code,Country,Region,Subregion,Indicator,Dimension,Category,Sex,Age,Year,Unit of measurement,VALUE,Source
+ALB,Albania,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,152,CTS
+ALB,Albania,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,5,CTS
+ALB,Albania,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,145,CTS
+ALB,Albania,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,65,CTS
+ALB,Albania,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,54,CTS
+ALB,Albania,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,96,CTS
+ALB,Albania,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,431,CTS
+ALB,Albania,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,107,CTS
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,8042,CTS
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,209,CTS
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,1554,CTS
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,677,CTS
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,877,CTS
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,565,CTS
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,24,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,0,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,3,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,60,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,18,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,27,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,15,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,5,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,22,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,10,CTS
+ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,23,CTS
+ARG,Argentina,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,136122,CTS
+ARG,Argentina,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,94,CTS
+ARG,Argentina,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,27444,CTS
+ARG,Argentina,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,5710,CTS
+ARG,Argentina,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,21734,CTS
+ARM,Armenia,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,204,CTS
+ARM,Armenia,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,46,CTS
+ARM,Armenia,Asia,Western Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,81,CTS
+ARM,Armenia,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,20,CTS
+ARM,Armenia,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,17,CTS
+ARM,Armenia,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,44,CTS
+AUS,Australia,Oceania,Australia and New Zealand,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,71745,CTS
+AUS,Australia,Oceania,Australia and New Zealand,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,402,CTS
+AUS,Australia,Oceania,Australia and New Zealand,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,27538,CTS
+AUS,Australia,Oceania,Australia and New Zealand,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1491,CTS
+AUS,Australia,Oceania,Australia and New Zealand,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,1413,CTS
+AUS,Australia,Oceania,Australia and New Zealand,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,8723,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,3549,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,3,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4141,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1684,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2135,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,322,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1917,CTS
+AUT,Austria,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,133,CTS
+AUT,Austria,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,252,CTS
+AUT,Austria,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,895,CTS
+AUT,Austria,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,208,CTS
+AUT,Austria,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,2443,CTS
+AUT,Austria,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,446,CTS
+AUT,Austria,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,68,CTS
+AUT,Austria,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,17,CTS
+AUT,Austria,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,121,CTS
+AUT,Austria,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,874,CTS
+AUT,Austria,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,326,CTS
+AUT,Austria,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,1628,CTS
+AUT,Austria,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,141,CTS
+AUT,Austria,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,869,CTS
+AUT,Austria,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,9,CTS
+AUT,Austria,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,90,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,2046,CTS
+AUT,Austria,Europe,Western Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,329,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,321,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,5,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,62,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,15,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,6,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,41,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,149,CTS
+AZE,Azerbaijan,Asia,Western Asia,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,26,CTS
+AZE,Azerbaijan,Asia,Western Asia,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,13,CTS
+AZE,Azerbaijan,Asia,Western Asia,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,288,CTS
+AZE,Azerbaijan,Asia,Western Asia,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,17,CTS
+AZE,Azerbaijan,Asia,Western Asia,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,24,CTS
+AZE,Azerbaijan,Asia,Western Asia,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,39,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,31,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,2643,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,213,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,50,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,5,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,158,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,238,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,101,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,251,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,343,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,123,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,64,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,25,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,10,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,3,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,253,CTS
+BHS,Bahamas,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,214,CTS
+BRB,Barbados,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,828,CTS
+BRB,Barbados,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,153,CTS
+BRB,Barbados,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,39,CTS
+BRB,Barbados,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,43,CTS
+BRB,Barbados,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,71,CTS
+BRB,Barbados,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,1580,CTS
+BRB,Barbados,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,72,CTS
+BEL,Belgium,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,56193,CTS
+BEL,Belgium,Europe,Western Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,9531,CTS
+BEL,Belgium,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,4001,CTS
+BEL,Belgium,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,5530,CTS
+BEL,Belgium,Europe,Western Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,3680,CTS
+BEL,Belgium,Europe,Western Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,24004,CTS
+BLZ,Belize,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1084,CTS/MoI
+BLZ,Belize,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1,CTS/MoI
+BLZ,Belize,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,135,CTS/MoI
+BLZ,Belize,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,25,CTS/MoI
+BLZ,Belize,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,55,CTS/MoI
+BLZ,Belize,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,55,CTS/MoI
+BLZ,Belize,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,2,CTS
+BTN,Bhutan,Asia,Southern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,828,CTS
+BTN,Bhutan,Asia,Southern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,0,CTS
+BTN,Bhutan,Asia,Southern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,53,CTS
+BTN,Bhutan,Asia,Southern Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,43,CTS
+BTN,Bhutan,Asia,Southern Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,4,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,5699,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,25,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,5599,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,2502,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,1960,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,1137,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,135,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,4,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,3,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,1,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,4,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,1,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,9,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,3060,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,2483,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,120,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,2136,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,7,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,252,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,108,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,2430,CTS
+BOL,Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,70,CTS
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,640,CTS
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1,CTS
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,194,CTS
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,18,CTS
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,146,CTS
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,2,CTS
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,14,CTS
+BWA,Botswana,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,2278,CTS
+BRA,Brazil,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,195470,CTS
+BRA,Brazil,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,4698,CTS
+BRA,Brazil,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,65977,CTS
+BRA,Brazil,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,8776,CTS/DATASUS
+BRA,Brazil,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,37781,CTS
+BGR,Bulgaria,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,2657,CTS
+BGR,Bulgaria,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,81,CTS
+BGR,Bulgaria,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,568,CTS
+BGR,Bulgaria,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,109,CTS
+BGR,Bulgaria,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,459,CTS
+BGR,Bulgaria,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,57,CTS
+CMR,Cameroon,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,5022,CTS/NSO
+CMR,Cameroon,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1019,CTS/NSO
+CMR,Cameroon,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,146,CTS/NSO
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,69379,CTS
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,3510,CTS
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,32929,CTS
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,28910,CTS
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,4019,CTS
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,10762,CTS
+CAN,Canada,Americas,Northern America,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,1035,CTS
+CAN,Canada,Americas,Northern America,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,1569,CTS
+CAN,Canada,Americas,Northern America,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,2206,CTS
+CAN,Canada,Americas,Northern America,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,460,CTS
+CAN,Canada,Americas,Northern America,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,1713,CTS
+CAN,Canada,Americas,Northern America,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,222,CTS
+CAN,Canada,Americas,Northern America,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1,CTS
+CAN,Canada,Americas,Northern America,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,1,CTS
+CAN,Canada,Americas,Northern America,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,1248,CTS
+CAN,Canada,Americas,Northern America,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,10933,CTS
+CAN,Canada,Americas,Northern America,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,1801,CTS
+CAN,Canada,Americas,Northern America,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,12701,CTS
+CAN,Canada,Americas,Northern America,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,436,CTS
+CAN,Canada,Americas,Northern America,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,4050,CTS
+CAN,Canada,Americas,Northern America,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,3,CTS
+CAN,Canada,Americas,Northern America,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,31,CTS
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,137543,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,11738,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,313,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,15692,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,3719,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,11665,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,308,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,269,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,8363,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,3162,CTS
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,4780,CTS
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1,CTS
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,64,CTS
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,682,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,2,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,138,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,29,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,102,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,7,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,15,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,128,CTS
+MAC,"China, Macao Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,11,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,91187,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,258,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,29761,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,25825,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,5885,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1823,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,4529,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,30436,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,20590,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,14321,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,8107,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,1620,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,17226,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,5643,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,387,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,3851,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,190,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,1139,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,0,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,0,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,3176,CTS
+COL,Colombia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,118778,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,9047,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,7,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,5942,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1810,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,4132,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,95,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,3377,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,743,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,596,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,302,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,265,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,29,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,360,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,59,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,91,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,155,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,20,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,105,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,6,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,284,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,31,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,5,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,257,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,29,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,144,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,4,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,40,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,18,CTS
+HRV,Croatia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,105,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,394,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,66,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,136,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,2,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,30,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,28,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,164,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,3892,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,11,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,1453,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,639,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,791,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,23,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,666,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,219,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,454,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,461,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,252,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,7,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,1,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,2432,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,427,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,37,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,320,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,96,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,460,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,17,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,3,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,63,CTS
+CZE,Czechia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,510,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,2081,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,150,CTS
+DNK,Denmark,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1871,CTS
+DNK,Denmark,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,5370,CTS
+DNK,Denmark,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,2175,CTS
+DNK,Denmark,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,3195,CTS
+DNK,Denmark,Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1901,CTS
+DNK,Denmark,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1426,CTS
+DNK,Denmark,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,489,CTS
+DNK,Denmark,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,561,CTS
+DNK,Denmark,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,4186,CTS
+DNK,Denmark,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,10280,CTS
+DMA,Dominica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,753,CTS
+DMA,Dominica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,8,CTS
+DMA,Dominica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,74,CTS
+DMA,Dominica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,12,CTS
+DMA,Dominica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,58,CTS
+DMA,Dominica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,4,CTS
+DMA,Dominica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,0,CTS
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,2544,CTS/NGO
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,102,CTS/NGO
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4455,CTS/NGO
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1033,CTS/NGO
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,1714,CTS/NGO
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,1708,CTS/NGO
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,53,NGO/CTS
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,43,NGO/CTS
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,0,NGO/CTS
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,0,NGO/CTS
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,709,NGO/CTS
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,35,NGO/CTS
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1557,NGO/CTS
+DOM,Dominican Republic,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,147,NGO/CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,5858,CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,644,CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,13435,CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,6258,CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,7175,CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,2,CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,392,CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,28357,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,4996,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,9,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4789,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1958,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,770,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,2061,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,46,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,216,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,834,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,2,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,12,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,2233,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,2107,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,55,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,759,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,2,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,295,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,364,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,3421,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,37,CTS
+SLV,El Salvador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,3,CTS
+EST,Estonia,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,77,CTS
+EST,Estonia,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,0,CTS
+EST,Estonia,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,310,CTS
+EST,Estonia,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,152,CTS
+EST,Estonia,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,158,CTS
+EST,Estonia,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,225,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1754,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,3,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4062,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1518,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2544,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,895,CTS
+FIN,Finland,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,133,CTS
+FIN,Finland,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,119,CTS
+FIN,Finland,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1244,CTS
+FIN,Finland,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,294,CTS
+FIN,Finland,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,35,CTS
+FIN,Finland,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,294,CTS
+FIN,Finland,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,234,CTS
+FIN,Finland,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,2700,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,727,CTS
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,317150,CTS
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,56376,CTS/MoI
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,25550,CTS/MoI
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,30826,CTS/MoI
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,11416,MoI/CTS
+FRA,France,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,36487,CTS
+FRA,France,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,125691,CTS
+FRA,France,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,149413,CTS
+FRA,France,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,53345,CTS
+FRA,France,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,2340,CTS
+FRA,France,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,15037,CTS
+FRA,France,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,5464,CTS
+FRA,France,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,36657,CTS
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,97162,MoI/CTS
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,37448,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,130453,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,4565,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,41079,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,10122,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,30957,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,26264,CTS
+DEU,Germany,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,10963,CTS
+DEU,Germany,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,16910,CTS
+DEU,Germany,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,33514,CTS
+DEU,Germany,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,11049,CTS
+DEU,Germany,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,54530,CTS
+DEU,Germany,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,11720,CTS
+DEU,Germany,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,16857,CTS
+DEU,Germany,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,3653,CTS
+DEU,Germany,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,1049,CTS
+DEU,Germany,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,7280,CTS
+DEU,Germany,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,2704,CTS
+DEU,Germany,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,15473,CTS
+DEU,Germany,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,1649,CTS
+DEU,Germany,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,12223,CTS
+DEU,Germany,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,662,CTS
+DEU,Germany,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,2764,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,19666,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,2069,CTS
+GHA,Ghana,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,54147,CTS
+GHA,Ghana,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,82,CTS
+GHA,Ghana,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,2327,CTS
+GHA,Ghana,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,497,CTS
+GHA,Ghana,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,34,CTS
+GHA,Ghana,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,1796,CTS
+GHA,Ghana,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,3528,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1285,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,73,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,543,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,172,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,363,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,8,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,337,CTS
+GRC,Greece,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,2,CTS
+GRC,Greece,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,1,CTS
+GRC,Greece,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,4,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,105,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,19,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1920,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,0,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,334,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,203,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,20,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,111,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,3,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,0,CTS
+GRD,Grenada,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,0,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,20427,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,174,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,9622,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,6018,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2685,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,919,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,43,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,6,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,2,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,14447,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,12589,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,1,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,11,CTS
+GTM,Guatemala,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1726,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1889,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,0,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,281,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,202,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,19,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,60,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,12,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,998,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,891,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,998,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,891,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,20,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,175,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,4,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,75,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,0,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,7,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,0,CTS
+GUY,Guyana,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,0,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1942,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,3,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,952,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,520,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,280,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,152,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,30,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,47,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,72,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,214,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,98,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,0,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,0,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1429,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,647,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,37,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,433,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,35,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,281,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,0,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,0,CTS
+HND,Honduras,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,206,CTS
+HUN,Hungary,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,11,CTS
+HUN,Hungary,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,504,CTS
+HUN,Hungary,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,504,CTS
+HUN,Hungary,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,371,CTS
+HUN,Hungary,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,26,CTS
+HUN,Hungary,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,154,CTS
+HUN,Hungary,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,64,CTS
+HUN,Hungary,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,147,CTS
+HUN,Hungary,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,11,CTS
+HUN,Hungary,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,57,CTS
+HUN,Hungary,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,0,CTS
+HUN,Hungary,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,0,CTS
+HUN,Hungary,Europe,Eastern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,4969,CTS
+ISL,Iceland,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,132,CTS
+ISL,Iceland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,520,CTS
+ISL,Iceland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,158,CTS
+ISL,Iceland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,48,CTS
+ISL,Iceland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,314,CTS
+ISL,Iceland,Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,0,CTS
+IRQ_C,Iraq (Central Iraq),Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,6,CTS
+IRQ_C,Iraq (Central Iraq),Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1078,CTS
+IRQ_C,Iraq (Central Iraq),Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,502,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,4262,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,106,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,2625,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1046,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,1579,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,460,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,1588,CTS
+ISR,Israel,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,7401,CTS
+ISR,Israel,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,619,CTS
+ISR,Israel,Asia,Western Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,7004,CTS
+ISR,Israel,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1308,CTS
+ISR,Israel,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,5649,CTS
+ISR,Israel,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,47,CTS
+ISR,Israel,Asia,Western Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,465,CTS
+ISR,Israel,Asia,Western Asia,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,57743,CTS
+ITA,Italy,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,840,CTS
+ITA,Italy,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,117,CTS
+ITA,Italy,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4918,CTS
+ITA,Italy,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,2515,CTS
+ITA,Italy,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,33094,CTS
+ITA,Italy,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,19168,CTS
+ITA,Italy,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,382,CTS
+ITA,Italy,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,4097,CTS
+ITA,Italy,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,31537,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,3302,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,16,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,1978,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,544,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,714,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,720,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,0,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,11,CTS
+JAM,Jamaica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,11,CTS
+JPN,Japan,Asia,Eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,18963,CTS/MoI
+JPN,Japan,Asia,Eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,337,CTS/MoI
+JPN,Japan,Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,5486,CTS/MoI
+JPN,Japan,Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1332,CTS/MoI
+JPN,Japan,Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,4154,MoI/CTS
+JPN,Japan,Asia,Eastern Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,6230,MoI
+JOR,Jordan,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,658,CTS
+JOR,Jordan,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,168,CTS
+JOR,Jordan,Asia,Western Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,1022,CTS
+JOR,Jordan,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,200,CTS
+JOR,Jordan,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,822,CTS
+JOR,Jordan,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,118,MNS
+JOR,Jordan,Asia,Western Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,54,MNS
+KEN,Kenya,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,19288,CTS
+KEN,Kenya,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,21,CTS
+KEN,Kenya,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,9153,CTS
+KEN,Kenya,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,939,CTS
+KEN,Kenya,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,287,CTS
+KEN,Kenya,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,7927,CTS
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,274,CTS
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,15,CTS
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,60,CTS
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,56,CTS
+XKX,Kosovo under UNSCR 1244,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,20,CTS
+KGZ,Kyrgyzstan,Asia,Central Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,32,CTS
+KGZ,Kyrgyzstan,Asia,Central Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,485,CTS
+KGZ,Kyrgyzstan,Asia,Central Asia,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,31,CTS
+KGZ,Kyrgyzstan,Asia,Central Asia,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,31,CTS
+KGZ,Kyrgyzstan,Asia,Central Asia,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,296,CTS
+KGZ,Kyrgyzstan,Asia,Central Asia,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,158,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,596,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,12,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,309,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,202,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,115,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,224,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,40,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,41,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,149,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,22,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,41,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,9,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,99,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,15,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,6,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,52,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,8,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,59,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,3,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,3,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,3,CTS
+LVA,Latvia,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,16,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,42,CTS
+LBN,Lebanon,Asia,Western Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,44,CTS
+LBN,Lebanon,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,37,CTS
+LBN,Lebanon,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,7,CTS
+LIE,Liechtenstein,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,86,CTS
+LIE,Liechtenstein,Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,0,CTS
+LIE,Liechtenstein,Europe,Western Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,11,CTS
+LIE,Liechtenstein,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,3,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,150,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,126,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,72,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,54,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,482,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,23,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,9,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,33,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,5,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,20,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,3,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,50,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,9,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,0,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,24,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,10,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,32,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,0,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,19,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,4,CTS
+LTU,Lithuania,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,22,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,0,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,0,CTS
+LUX,Luxembourg,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,486,CTS
+LUX,Luxembourg,Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,42,CTS
+LUX,Luxembourg,Europe,Western Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,289,CTS
+LUX,Luxembourg,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,104,CTS
+LUX,Luxembourg,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,185,CTS
+MYS,Malaysia,Asia,South-eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,4118,CTS
+MYS,Malaysia,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,3102,CTS
+MYS,Malaysia,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1378,CTS
+MYS,Malaysia,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,378,CTS
+MYS,Malaysia,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,1346,CTS
+MLT,Malta,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,183,CTS
+MLT,Malta,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,0,CTS
+MLT,Malta,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,89,CTS
+MLT,Malta,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,17,CTS
+MLT,Malta,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,72,CTS
+MLT,Malta,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,355,CTS
+MUS,Mauritius,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,261,CTS
+MUS,Mauritius,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,36,CTS
+MUS,Mauritius,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,570,CTS
+MUS,Mauritius,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,27,CTS
+MUS,Mauritius,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,171,CTS
+MUS,Mauritius,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,367,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,68026,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1022,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,53145,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,17980,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,30485,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,4680,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,2831,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,1094,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,3315,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,375,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,209,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,6642,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,4198,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,14490,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,9268,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,1169,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,7533,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,277,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,1603,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,1617,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,11283,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,3258,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,105954,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,310,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,2,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,505,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,401,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,14,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,90,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,3,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,45,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,19,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,96,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,7,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,105,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,1,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,11,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,1,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,0,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,14,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,2,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,401,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,0,CTS
+MNG,Mongolia,Asia,Eastern Asia,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,78,CTS
+MNE,Montenegro,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,129,CTS
+MNE,Montenegro,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,27,CTS
+MNE,Montenegro,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,9,CTS
+MNE,Montenegro,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,14,CTS
+MNE,Montenegro,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,4,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,114652,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,183,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4763,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1296,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2321,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,1146,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,68,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,3741,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,4780,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,1676,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,1481,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,4448,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,1259,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,12832,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,4928,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,5,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,14,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,157,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,512,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,76,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,206,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,270,CTS
+MAR,Morocco,Africa,Northern Africa,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,625,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,13,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,18,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,869,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,56,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,44,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,112,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,3,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,5,CTS
+MMR,Myanmar,Asia,South-eastern Asia,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,11,CTS
+NAM,Namibia,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,9175,CTS
+NAM,Namibia,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,51,CTS
+NAM,Namibia,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,1236,CTS
+NAM,Namibia,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1217,CTS
+NAM,Namibia,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,6,CTS
+NAM,Namibia,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,13,CTS
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,5220,CTS
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,520,CTS
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4020,CTS
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,2065,CTS
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,1955,CTS
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,465,CTS
+NLD,Netherlands (Kingdom of the),Europe,Western Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,4390,CTS
+NZL,New Zealand,Oceania,Australia and New Zealand,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,42588,CTS
+NZL,New Zealand,Oceania,Australia and New Zealand,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,393,CTS
+NZL,New Zealand,Oceania,Australia and New Zealand,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,5547,CTS
+NZL,New Zealand,Oceania,Australia and New Zealand,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,2766,CTS
+NZL,New Zealand,Oceania,Australia and New Zealand,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2683,CTS
+NZL,New Zealand,Oceania,Australia and New Zealand,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,98,CTS
+NZL,New Zealand,Oceania,Australia and New Zealand,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1091,CTS
+NZL,New Zealand,Oceania,Australia and New Zealand,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,5793,CTS
+MKD,North Macedonia,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,145,CTS
+MKD,North Macedonia,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,2,CTS
+MKD,North Macedonia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,113,CTS
+MKD,North Macedonia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,38,CTS
+NOR,Norway,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1786,CTS
+NOR,Norway,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,5060,CTS
+NOR,Norway,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,2234,CTS
+NOR,Norway,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2389,CTS
+NOR,Norway,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,437,CTS
+NOR,Norway,Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1259,CTS
+NOR,Norway,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1466,CTS
+NOR,Norway,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,291,CTS
+NOR,Norway,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,619,CTS
+NOR,Norway,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,3745,CTS
+NOR,Norway,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,7410,CTS
+OMN,Oman,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,27,CTS
+OMN,Oman,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,4,CTS
+OMN,Oman,Asia,Western Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,114,CTS
+OMN,Oman,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,114,CTS
+OMN,Oman,Asia,Western Asia,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,2,CTS
+OMN,Oman,Asia,Western Asia,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,3,CTS
+OMN,Oman,Asia,Western Asia,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,20,CTS
+OMN,Oman,Asia,Western Asia,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,2,CTS
+OMN,Oman,Asia,Western Asia,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,3,CTS
+OMN,Oman,Asia,Western Asia,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,6,CTS
+OMN,Oman,Asia,Western Asia,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,53,CTS
+OMN,Oman,Asia,Western Asia,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,67,CTS
+PAK,Pakistan,Asia,Southern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,28301,CTS
+PAK,Pakistan,Asia,Southern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,19375,CTS
+PAK,Pakistan,Asia,Southern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4852,CTS
+PAK,Pakistan,Asia,Southern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,4852,CTS
+PAN,Panama,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,3500,CTS
+PAN,Panama,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,2,CTS/PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,5159,CTS/PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,2329,CTS/PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,17,PPR/CTS
+PAN,Panama,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,2813,PPR/CTS
+PAN,Panama,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,305,PPR/CTS
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,5,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,4,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1906,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,405,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,14,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,210,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,3,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,25,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,0,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,0,PPR
+PAN,Panama,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,229,PPR
+PRY,Paraguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,492,CTS
+PRY,Paraguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,5,CTS
+PRY,Paraguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,4777,CTS
+PRY,Paraguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1168,CTS
+PRY,Paraguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,3599,CTS
+PRY,Paraguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,10,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,2453,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,854,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,21614,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,9827,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,11787,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,134,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,3407,CTS
+POL,Poland,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,5377,CTS
+POL,Poland,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,2939,CTS
+POL,Poland,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,568,CTS
+POL,Poland,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,360,CTS
+POL,Poland,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,2011,CTS
+POL,Poland,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,6539,CTS
+POL,Poland,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,4269,CTS
+POL,Poland,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,1181,CTS
+POL,Poland,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,427,CTS
+POL,Poland,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,2595,CTS
+POL,Poland,Europe,Eastern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,24024,CTS
+PRT,Portugal,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,576,CTS
+PRT,Portugal,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,254,CTS
+PRT,Portugal,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,2434,CTS
+PRT,Portugal,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,315,CTS
+PRT,Portugal,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2119,CTS
+PRT,Portugal,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,499,CTS
+KOR,Republic of Korea,Asia,Eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,32904,CTS
+KOR,Republic of Korea,Asia,Eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,46,CTS
+KOR,Republic of Korea,Asia,Eastern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,21717,CTS
+MDA,Republic of Moldova,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,163,CTS
+MDA,Republic of Moldova,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,44,CTS
+MDA,Republic of Moldova,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,525,CTS
+MDA,Republic of Moldova,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,254,CTS
+MDA,Republic of Moldova,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,74,CTS
+MDA,Republic of Moldova,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,197,CTS
+MDA,Republic of Moldova,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,45,CTS
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,229,CTS
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,286,CTS
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,1914,CTS
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1595,CTS
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,319,CTS
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,878,CTS
+ROU,Romania,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,6,CTS
+ROU,Romania,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,10,CTS
+ROU,Romania,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,28,CTS
+ROU,Romania,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,439,CTS
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,1276,CTS
+RUS,Russian Federation,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,18989,CTS
+RUS,Russian Federation,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,365,CTS
+RUS,Russian Federation,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,18715,CTS
+RUS,Russian Federation,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,8500,CTS
+RUS,Russian Federation,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,10215,CTS
+RUS,Russian Federation,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1297,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,131,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,1,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,53,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,31,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,22,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,11,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,14,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,8,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,0,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,21,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,2,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,53,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,22,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,0,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,2,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,0,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,1,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,0,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,0,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,0,CTS
+KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,48,CTS
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1025,CTS
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,11,CTS
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,180,CTS
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,26,CTS
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,42,CTS
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,112,CTS
+LCA,Saint Lucia,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,0,CTS
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,553,CTS/NGO
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,10,CTS/NGO
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,135,CTS/NGO
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,23,CTS/NGO
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,99,CTS/NGO
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,13,CTS/NGO
+VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,84,NGO/CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,5797,CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,4,CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,486,CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,93,CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,393,CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,107,CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,466,CTS
+SRB,Serbia,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,2,CTS
+SGP,Singapore,Asia,South-eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,444,CTS
+SGP,Singapore,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,1664,CTS
+SGP,Singapore,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,343,CTS
+SGP,Singapore,Asia,South-eastern Asia,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,644,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1270,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,53,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,619,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,92,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,59,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,468,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,3,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,77,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,20,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,27,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,895,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,237,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,40,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,20,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,0,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,9,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,92,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,496,CTS
+SVK,Slovakia,Europe,Eastern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,12,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,1269,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,128,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,3,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,215,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,146,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,69,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,162,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,10,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,16,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,30,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,2,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,49,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,2,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,0,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,0,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,7,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,54,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,12,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,67,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,5,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,46,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,0,CTS
+SVN,Slovenia,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,0,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,219,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,15569,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,76,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,11112,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1596,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,9516,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1328,CTS
+ESP,Spain,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,649,CTS
+ESP,Spain,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,1254,CTS
+ESP,Spain,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,1056,CTS
+ESP,Spain,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,207,CTS
+ESP,Spain,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,9127,CTS
+ESP,Spain,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,1828,CTS
+ESP,Spain,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,6057,CTS
+ESP,Spain,Europe,Southern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,2942,CTS
+ESP,Spain,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,165,CTS
+ESP,Spain,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,1531,CTS
+ESP,Spain,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,153,CTS
+ESP,Spain,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,1326,CTS
+ESP,Spain,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,895,CTS
+ESP,Spain,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,4941,CTS
+ESP,Spain,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,126,CTS
+ESP,Spain,Europe,Southern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,1442,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,5763,CTS
+ESP,Spain,Europe,Southern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,1336,CTS
+PSE,State of Palestine,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,918,CTS
+PSE,State of Palestine,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,209,CTS
+PSE,State of Palestine,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,13,CTS
+PSE,State of Palestine,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,384,CTS
+SUR,Suriname,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1501,CTS
+SUR,Suriname,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,1001,CTS
+SUR,Suriname,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,254,CTS
+SUR,Suriname,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,569,CTS
+SUR,Suriname,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,178,CTS
+SUR,Suriname,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,69,CTS
+SUR,Suriname,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,1640,CTS
+SUR,Suriname,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,8,CTS
+SWE,Sweden,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,5290,CTS
+SWE,Sweden,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,21144,CTS
+SWE,Sweden,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,8884,CTS
+SWE,Sweden,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,11567,CTS
+SWE,Sweden,Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,693,CTS
+SWE,Sweden,Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,4954,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,2283,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,377,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1599,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,989,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,85,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,2236,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,282,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,3241,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,460,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,4775,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,1291,CTS
+SWE,Sweden,Europe,Northern Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,8774,CTS
+SWE,Sweden,Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,60629,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,670,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,6,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,2909,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,713,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,683,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,1513,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,1669,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,39,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,82,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,148,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,35,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,207,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,25,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,138,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of serious assault,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,27,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Male,Total,2020,Counts,93,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Intimate partner or family member,Female,Total,2020,Counts,738,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Male,Total,2020,Counts,143,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Other Perpetrator known to the victim,Female,Total,2020,Counts,772,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Male,Total,2020,Counts,46,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Perpetrator unknown to the victim,Female,Total,2020,Counts,402,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Male,Total,2020,Counts,59,CTS
+CHE,Switzerland,Europe,Western Europe,Victims of sexual violence,by relationship to perpetrator,Relationship to perpetrator is not known,Female,Total,2020,Counts,363,CTS
+TJK,Tajikistan,Asia,Central Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,34,CTS
+THA,Thailand,Asia,South-eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,6552,CTS
+THA,Thailand,Asia,South-eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,2,CTS
+THA,Thailand,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,2704,CTS/Computed
+THA,Thailand,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1744,CTS
+THA,Thailand,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,960,CTS
+THA,Thailand,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+THA,Thailand,Asia,South-eastern Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,28338,CTS
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,680,CTS/NGO
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,92,CTS/NGO
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,35,CTS/NGO
+TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,553,NGO
+TUR,Türkiye,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,7733,CTS
+UKR,Ukraine,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1680,CTS/DMDB
+UKR,Ukraine,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,361,CTS/DMDB
+UKR,Ukraine,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,696,CTS/DMDB
+UKR,Ukraine,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,374,CTS/DMDB
+UKR,Ukraine,Europe,Eastern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,322,DMDB
+UKR,Ukraine,Europe,Eastern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,212,DMDB
+ARE,United Arab Emirates,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,197,CTS
+ARE,United Arab Emirates,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,77,CTS
+ARE,United Arab Emirates,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,60,CTS
+ARE,United Arab Emirates,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,284,CTS
+ARE,United Arab Emirates,Asia,Western Asia,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,0,CTS
+ARE,United Arab Emirates,Asia,Western Asia,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,26,CTS
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,540699,CTS
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,5765,CTS
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,163244,CTS
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,59104,CTS
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,58796,CTS
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,19825,CTS
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,983,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,767,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,82,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,3321,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,1009,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,1253,Computed/CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,1059,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,11161,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress: Cyber-related,Total,Total,2020,Counts,3325,CTS
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,3231,CTS
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,247,CTS
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,12339,CTS
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,2176,CTS
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,4276,CTS
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,5887,CTS
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,Violent offences,by type of offence,Acts intended to induce fear or emotional distress,Total,Total,2020,Counts,889,CTS
+USA,United States of America,Americas,Northern America,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,921505,CTS
+USA,United States of America,Americas,Northern America,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,126430,CTS
+URY,Uruguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,675,CTS
+URY,Uruguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,4,CTS
+URY,Uruguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence,Total,Total,2020,Counts,2992,CTS
+URY,Uruguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,362,CTS
+URY,Uruguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,2489,CTS
+URY,Uruguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual violence: Other acts of sexual violence,Total,Total,2020,Counts,141,CTS
+URY,Uruguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Sexual Exploitation,Total,Total,2020,Counts,335,CTS
+UZB,Uzbekistan,Asia,Central Asia,Violent offences,by type of offence,Serious assault,Total,Total,2020,Counts,1076,CTS
+UZB,Uzbekistan,Asia,Central Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2020,Counts,34,CTS
+UZB,Uzbekistan,Asia,Central Asia,Violent offences,by type of offence,Sexual violence: Rape,Total,Total,2020,Counts,139,CTS
+UZB,Uzbekistan,Asia,Central Asia,Violent offences,by type of offence,Sexual violence: Sexual assault,Total,Total,2020,Counts,133,CTS
